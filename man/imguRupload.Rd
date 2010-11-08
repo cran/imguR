@@ -17,9 +17,6 @@ imguRupload(filename, title = NULL, caption = NULL, name = basename(filename), a
   \item{name}{Image title passed to the imguR API}
   \item{apikey}{The anonymous API key provided by imgur for the imguR package - this allows 50 image uploads per hour.}
 }
-\details{
-%%  ~~ If necessary, more details than the description above ~~
-}
 \value{
 A list parsed from the imguR JSON response after uploading the plot (see the imgur API for details)
 }

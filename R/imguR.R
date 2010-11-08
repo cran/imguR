@@ -9,3 +9,7 @@ imguR <- function(title=NULL, caption=NULL, name=NULL, ...) {
     invisible()
 }
 
+to.imguR <- function() {
+    dev.copy(imguR)
+    dev.off()
+}
