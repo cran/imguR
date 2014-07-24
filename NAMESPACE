@@ -1,9 +1,7 @@
-# Export all names
-exportPattern(".")
-
-# Import all packages listed as Imports or Depends
-import(
-  XML,
-  RCurl,
-  httr
-)
+import(httr)
+importFrom(RCurl, fileUpload)
+importFrom(png, readPNG)
+importFrom(jpeg, readJPEG)
+importFrom(tools, file_ext)
+S3method(plot, imgur_image)
+exportPattern("^[^\\.]")
