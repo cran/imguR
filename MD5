@@ -1,6 +1,6 @@
-24bc16b8a375a666c70f90b1d44f2100 *DESCRIPTION
-55e0fe1c2fba8bd91932ac2fc7782604 *NAMESPACE
-2507fcaced06ba01c3e148977f12d716 *NEWS
+b0859d799f7096413542dad6d46bed58 *DESCRIPTION
+e54340748abbb1b9f9abad8062ce04a1 *NAMESPACE
+af30ade770dd4a7b8aa87945b97fd195 *NEWS
 b111e05522204951d833bae5b47f2d8d *R/account.r
 79d9f8050973d3c68ccb2ef797768035 *R/account_album_count.r
 c664d61214048cf0bdc860fc699cf450 *R/account_albums.r
@@ -40,7 +40,7 @@ e7b516e46a6f38845ff65dee23f85572 *R/get_memes_gallery.r
 219d77f1a5ce79a4d7b5f0d2aee513ff *R/get_reddit_gallery.r
 cc6a2c5688c98ace12527d34ba2960c8 *R/get_reddit_image.r
 0d867a34e33c2f3e0dffc613fbdac1cf *R/get_replies.r
-b3dde604d20fdb90b6fbf463b0702b41 *R/http.r
+7887aa22bb6b958ee75af72065431200 *R/http.r
 aeb22a2ad85609996fcae76558d7387b *R/imguR.R
 c2801fe4e50a907f25111653ccfdb79a *R/imgur_login.r
 7c5422eb2f67843fd366a2cdbbfd911e *R/mark_notification.r
@@ -59,7 +59,7 @@ b297e6a06c5ee935d0661d662e2a5797 *R/update_album.r
 a6fe678d144499f80bc07ff150d721ac *R/update_image.r
 403e13f4c6060bb0016f139d5c6edee4 *R/upload_image.R
 a6201b4df2d3644242bedb167c482eb0 *R/vote_comment.r
-9200c7479da879a6ca722899192adb2a *README.md
+68d6790a62623531101daebddbcf8013 *README.md
 5e1a8b5e8cd6d3adcde7247297ce3333 *inst/CITATION
 46eb9d5feafc01b72d98dd21643f5e76 *man/Authentication.Rd
 4405c5ae4f62bd8902b2a96d5ddff9cb *man/account.Rd
